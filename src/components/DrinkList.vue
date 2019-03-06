@@ -1,0 +1,8 @@
+<template>
+    <table>
+        <tr>
+            <th>名前</th>
+            <th>値段</th>
+        </tr>
+    </table>
+</template>
